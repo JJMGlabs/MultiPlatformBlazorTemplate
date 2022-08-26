@@ -2,7 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using SharedLibrary.Data;
 
-namespace WpfBlazorApp
+namespace BlazorWpfApp
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

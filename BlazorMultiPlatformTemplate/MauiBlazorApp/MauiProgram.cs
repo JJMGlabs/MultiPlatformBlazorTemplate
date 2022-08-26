@@ -1,7 +1,7 @@
 ﻿using SharedLibrary.Data;
 using Microsoft.AspNetCore.Components.WebView.Maui;
 
-namespace MauiBlazorApp
+namespace BlazorMauiApp
 {
     public static class MauiProgram
     {

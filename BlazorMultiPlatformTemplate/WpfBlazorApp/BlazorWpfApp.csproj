@@ -8,7 +8,7 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<RootNameSpace>WpfBlazorApp</RootNameSpace>
+		<RootNameSpace>BlazorWpfApp</RootNameSpace>
 	</PropertyGroup>
 
 	<ItemGroup>

@@ -1,4 +1,4 @@
-namespace WinFormsBlazorApp
+namespace BlazorWinFormsApp
 {
     internal static class Program
     {

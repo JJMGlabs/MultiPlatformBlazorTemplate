@@ -7,11 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedLibrary", "BlazorMult
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorServerApp", "BlazorServerApp\BlazorServerApp.csproj", "{73EF1651-C859-4465-9DDC-CCBBAC4C755F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfBlazorApp", "WpfBlazorApp\WpfBlazorApp.csproj", "{AD08FE84-542D-4D36-927D-2F3C665ABAD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWpfApp", "WpfBlazorApp\BlazorWpfApp.csproj", "{AD08FE84-542D-4D36-927D-2F3C665ABAD1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiBlazorApp", "MauiBlazorApp\MauiBlazorApp.csproj", "{17EB75B7-EBA4-4617-8D58-F5719B1264ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorMauiApp", "MauiBlazorApp\BlazorMauiApp.csproj", "{17EB75B7-EBA4-4617-8D58-F5719B1264ED}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsBlazorApp", "WinFormsBlazorApp\WinFormsBlazorApp.csproj", "{291C59ED-46A7-4E09-BCDE-D8C6A7429F65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWinFormsApp", "WinFormsBlazorApp\BlazorWinFormsApp.csproj", "{291C59ED-46A7-4E09-BCDE-D8C6A7429F65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

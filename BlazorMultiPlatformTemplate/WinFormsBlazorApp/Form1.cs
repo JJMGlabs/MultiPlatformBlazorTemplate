@@ -3,7 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using SharedLibrary;
 using SharedLibrary.Data;
 
-namespace WinFormsBlazorApp
+namespace BlazorWinFormsApp
 {
     public partial class Form1 : Form
     {
