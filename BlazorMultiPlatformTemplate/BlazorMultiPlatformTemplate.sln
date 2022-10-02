@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32519.111
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedLibrary", "BlazorMultiPlatformTemplateSharedLibrary\SharedLibrary.csproj", "{A2FFB5A8-7525-4D0E-9541-D45A2F406059}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedLibrary", "BlazorSharedLibrary\SharedLibrary.csproj", "{A2FFB5A8-7525-4D0E-9541-D45A2F406059}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorServerApp", "BlazorServerApp\BlazorServerApp.csproj", "{73EF1651-C859-4465-9DDC-CCBBAC4C755F}"
 EndProject

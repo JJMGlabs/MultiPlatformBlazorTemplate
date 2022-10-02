@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BlazorMultiPlatformTemplateSharedLibrary\SharedLibrary.csproj" />
+    <ProjectReference Include="..\BlazorSharedLibrary\SharedLibrary.csproj" />
   </ItemGroup>
 
 </Project>
