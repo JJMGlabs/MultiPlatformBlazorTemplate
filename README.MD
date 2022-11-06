@@ -14,6 +14,14 @@ The quickest way to get started is to open the solution in visual studio and cha
 
 When you have the project set up as you prefer you can then move the solution folder into your own project ensuring not to take the .git folder or this Readme. This will allow you to unlink from this repository and use the template in your own project.
 
+## Common Problems
+ - After a project is renamed it may not render with styles, this is easily fixed with a rebuild.
+ - Often the Maui app will have a splash screen error or an access denied after name change. To solve this problem you may need to: 
+    - Close Visual Studio
+    - Delete the bin and obj folders for the Maui app manually
+    - Restart visual studio
+    - Rebuild your project
+
 ## Possible future plans
 
 -   I may eventually create a Visual Studio template or similar to make the setup of the project less manual in future. 
